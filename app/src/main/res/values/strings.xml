@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Calculate Tip</string>
+    <string name="edit_message">Enter a message</string>
+    <string name="button_send">Send</string>
+    <string name="waiter1">Waiter 1</string>
+    <string name="waiter2">Waiter 2</string>
+    <string name="time">00:00</string>
+    <string name="barman1">Barman 1</string>
+    <string name="barman2">Barman 2</string>
+    <string name="cash_money">Cash Money:</string>
+    <string name="credit_money">Credit Money:</string>
+    <string name="zero">0</string>
+    <string name="seven_oclock">07:00</string>
+    <string name="one_pm">13:00</string>
+    <string name="four_oclock" >16:00</string>
+</resources>
